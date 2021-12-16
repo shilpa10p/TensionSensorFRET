@@ -1,2 +1,2 @@
 # TensionSensorFRETCalculator
-Program used to calculate FRET 
+Program used for FRET-based molecular tension measurements.
