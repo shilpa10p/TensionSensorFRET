@@ -1,2 +1,2 @@
 # TensionSensorFRETCalculator
-Program used to help to...
+Program used to calculate FRET 
